@@ -1,1 +1,0 @@
-# partarch-ecommerce-demo
